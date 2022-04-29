@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#red {
+    color: red;
+}
+img {
+    max-width: 500px;
+    max-height: 530px;
+}
+table {
+    border: 1px solid;
+    border-color: white;
+    margin: auto;
+}
+table th{
+    border: 1px solid;
+    border-color: white;
+}
+table tr:first-child {
+    font-weight: bold;
+    text-decoration: underline;
+}
+#liste {
+    text-align: initial;
+    margin-left: 45%;
+}
+#sousgenre {
+    text-align: initial;
+}
